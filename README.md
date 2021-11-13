@@ -3,21 +3,6 @@
 ![logo](images/mars-logo.png)
 ---
 
-
-
-
-
-<img src="images/open-mongodb.png" width=50% height=50% />
-
-
-
-
-
-<img src="images/website-startup.png" width=50% height=50% />
-
-<img src="images/website-refreshed.png" width=50% height=50% />
-
-
 ## Overview
 This project is to create an application that can keep up-to-date on the latest Mars News, published on the NASA news website, utilizing Web Scraping cabilities and presenting them into a web page, that can be refreshed upon a simple button click. 
 
@@ -50,22 +35,22 @@ I had to design how my Application (Web Page) would look like and where the resu
 **HTML Tags and Web Page Layout**
 With the HTML5 tags known, and my Web Layout designed, it was now time to determine where these 2 areas met.
 
-<img src="images/website-template3.png" width=35% height=35% />
-   
-<img src="images/website-template3.png" width=35% height=35% />       
+<img src="images/website-template3.png" width=35% height=35% />    
 
 **Database Setup**
-
+<img src="images/open-mongodb.png" width=50% height=50% />
 
 ## Results
 
 ### Deliverable 1
 **Scrape Full-Resolution Mars Hemisphere Images and Titles**
 
+<img src="images/website-startup.png" width=50% height=50% />
 
 ### Deliverable 2
 **Update the Web Application with Mars Hemisphere Images and Titles**
 
+<img src="images/website-refreshed.png" width=50% height=50% />
 
 ### Deliverable 3
 **Add Bootstrap 3 Components**
