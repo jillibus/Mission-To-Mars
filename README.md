@@ -40,11 +40,11 @@ I will be using several different websites for '_web scraping_' and software too
 <img src="images/website-template3.png" width=50% height=50% />    
 
 **Database Setup**
-- Starting up my Virtual Environment, starting up my MongoDB Database
+- Setting up my Virtual Environment, starting up my MongoDB Database
 <img src="images/open-mongodb.png" width=50% height=50% />
 
 **Application Startup**
-- Starting my Virtual Environment in another concole, and starting up my application
+- Setting my Virtual Environment in another concole, and starting up my application
 - Then open up Chrome and entering the URL: http://127.0.0.1:5000
 <img src="images/application.png" width=50% height=50% />
 
