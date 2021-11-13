@@ -2,31 +2,22 @@
 
 ![logo](images/mars-logo.png)
 ---
-![html-tags](images/html-tags.png)
 
-![data-flow](images/data-flow.png)
+<img src="images/html-tags.png" width=35% height=35% />
 
-![WebScraping](images/WebScraping-DataFlow.png)
+<img src="images/WebScraping-DataFlow.png" width=35% height=35% />
 
-![orig-to-yours](images/orig-to-yours.png)
+<img src="images/open-mongodb.png" width=50% height=50% />
 
-![open](images/open-mongodb.png)
+<img src="images/web-template-layout.png" width=35% height=35% />
 
-![web-template](images/web-template-layout.png)
+<img src="images/website-template3.png" width=35% height=35% />
 
-![web-template2](images/web-template3.png)
+<img src="images/website-template2.png" width=35% height=35% />
 
-![web-template3](images/web-template2.png)
+<img src="images/website-startup.png" width=50% height=50% />
 
-![webstart](images/website-startup.png)
-
-![webrefresh](images/website-refreshed.png)
-
-
-
-
-
-
+<img src="images/website-refreshed.png" width=50% height=50% />
 
 
 ## Overview
