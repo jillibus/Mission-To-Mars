@@ -4,7 +4,7 @@ from splinter import Browser
 from bs4 import BeautifulSoup as soup
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
-#driver = webdriver.Chrome(ChromeDriverManager().install())
+driver = webdriver.Chrome(ChromeDriverManager().install())
 
 # Set the executable path and initialize the chrome browser in splinter
 executable_path = {'executable_path': ChromeDriverManager().install()}
