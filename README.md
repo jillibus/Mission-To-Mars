@@ -120,23 +120,22 @@ def mars_hemis(browser):
 
 **Add Bootstrap 3 Components**
 
-<img src="images/xxx.png" width=50% height50% />
-
 Bootstrap 3 components added to the application:
 
-1)  Styling the "Scrape New Button"
+Styling the "Scrape New Button"
   * Chose the "success" option for the button to turn it "green"
-  ```
+```
   <div class="jumbotron text-center" style="background-image: url(https://marshemispheres.com/images/full.jpg);">
             <h1>Mission to Mars</h1>
             <p><a class="btn btn-success btn-md" href="/scrape"
                   role="button">Scrape New Data</a></p>
         <!-- End of Jumbotron Section -->
   </div>
+```
+<img src="images/Button-Success-Green.png" width=50% height50% />
 
-  <img src="images/Button-Success-Green.png" width=50% height50% />
-
-2) The following area's of code in the _index.html_ were modified so that the application can be viewed on a Mobile Device.  the "col-"  value was changed to 'xs' - so it can be adjusted to a cell phone if viewed there.  
+---
+The following area's of code in the _index.html_ were modified so that the application can be viewed on a Mobile Device.  the "col-"  value was changed to 'xs' - so it can be adjusted to a cell phone if viewed there.  
 
 ```
 <head>
@@ -171,9 +170,10 @@ The last area I modified, was to update the Mars Fact table, to be responsive.
     <table class="table">{{ mars.facts | safe }}</table>                
 ```
  
- <img src="images/Dimensions-Responsive.png" width=50% height50% />
+<img src="images/Dimensions-Responsive.png" width=50% height50% />
  
-3) The last portion of code modified, also with the column resized for small, was to set the class of the image to thumbnail.
+---
+The last portion of code modified, also with the column resized for small, was to set the class of the image to thumbnail.
 ```
 <div class="col-xs-3">
     <div class="thumbnail">
