@@ -182,11 +182,8 @@ The last portion of code modified, also with the column resized for small, was t
      
 ## Summary
 
+This challenge used several applications that were definitely new to me, BeautifulSoup, Splinter, ChromeDriverManager, Flask, PyMongo, MongoDB. Learning how all of them worked together with Python, Pandas, HTML5 as well as Bootstrap was quite a bit of learning to do in one application in one week.  I don't believe I have even dipped my toe into the surface much on these, as they can do much more than this simple application did.
 
-
-
-
-
-
+It was nice to see how I was able to view several websites and put together a simple application and present it on one webpage, but I can see how this can do so much more once I get to learn these software programs more.
 
 Jill Hughes
