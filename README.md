@@ -132,7 +132,7 @@ Styling the "Scrape New Button"
         <!-- End of Jumbotron Section -->
   </div>
 ```
-<img src="images/Button-Success-Green.png" width=50% height50% />
+<img src="images/Button-Success-Green.png" width=50% height=50% />
 
 ---
 The following area's of code in the _index.html_ were modified so that the application can be viewed on a Mobile Device.  the "col-"  value was changed to 'xs' - so it can be adjusted to a cell phone if viewed there.  
@@ -170,7 +170,7 @@ The last area I modified, was to update the Mars Fact table, to be responsive.
     <table class="table">{{ mars.facts | safe }}</table>                
 ```
  
-<img src="images/Dimensions-Responsive.png" width=50% height50% />
+<img src="images/Dimensions-Responsive.png" width=50% height=50% />
  
 ---
 The last portion of code modified, also with the column resized for small, was to set the class of the image to thumbnail.
